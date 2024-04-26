@@ -1,0 +1,33 @@
+{
+  "name": "ggenie.js",
+  "version": "1.0.0",
+  "description": "Your API Integration Wishmaster - A Node.js library for easy integration with Google APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/ggenie.js.git"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "node.js",
+    "integration",
+    "google services",
+    "oauth2",
+    "magic"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/ggenie.js/issues"
+  },
+  "homepage": "https://github.com/yourusername/ggenie.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
